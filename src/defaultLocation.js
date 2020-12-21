@@ -1,6 +1,6 @@
 const defaultLocation = {  
-    latitude: 54.69,
-    longitude: 25.28 
+    latitude: 47.84,
+    longitude: 35.16 
 }   
 
 export default defaultLocation

@@ -1,6 +1,6 @@
 <template>
     <header class="header-location">
-        <button type="button"  :disabled="isDisabled" @click="$emit('update')">Done</button>
+        <button type="button"  :disabled="isDisabled" @click="$emit('update')">Save</button>
         <div class="header-location__title">
             <h2>Weather forecast</h2>
             <p>{{ location }}</p>
